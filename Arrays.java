@@ -80,24 +80,3 @@
     // else{
     //     System.out.println("this array is not sorted in ascendimg order");
     // }
-    import java.util.Scanner;
-public class Arrays{
-    public static void main(String[] args){
-        Scanner sc= new Scanner(System.in);
-        int size= sc.nextInt();
-
-    // take an array
-    int [][] nums = new int[i][j];
-   // for(int i=0; i<size; i++){
-        nums[i][j]= sc.nextInt();
-    }
-
-    //output
-    int median= sc.nextInt();
-    for(int i=0; i<nums.length; i++){
-        for(j=0; j<nums.length; j++){
-
-        }
-    }
-    }
-}
